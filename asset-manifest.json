@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/AHFuels/static/css/main.f855e6bc.css",
-    "main.js": "/AHFuels/static/js/main.1ebe282d.js",
-    "static/js/453.59fdd8d5.chunk.js": "/AHFuels/static/js/453.59fdd8d5.chunk.js",
-    "static/media/logo.svg": "/AHFuels/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/AHFuels/index.html",
-    "main.f855e6bc.css.map": "/AHFuels/static/css/main.f855e6bc.css.map",
-    "main.1ebe282d.js.map": "/AHFuels/static/js/main.1ebe282d.js.map",
-    "453.59fdd8d5.chunk.js.map": "/AHFuels/static/js/453.59fdd8d5.chunk.js.map"
+    "main.css": "/static/css/main.b477b250.css",
+    "main.js": "/static/js/main.e6903b03.js",
+    "static/media/polishing1.mp4": "/static/media/polishing1.94b8cc029baa0ce210f4.mp4",
+    "static/media/polishing2.mp4": "/static/media/polishing2.9a3e94dc8845c183e2fd.mp4",
+    "static/media/servicing1.mp4": "/static/media/servicing1.4f1613eb31e8758647d6.mp4",
+    "static/media/detailing4.mp4": "/static/media/detailing4.f48be54e21a6a373ca21.mp4",
+    "static/media/exterior.jpg": "/static/media/exterior.150f90547274c1682bb4.jpg",
+    "static/media/2.jpg": "/static/media/2.eb22829c7f4367a38087.jpg",
+    "static/media/service-tools.gif": "/static/media/service-tools.22869944c4f71626a4fe.gif",
+    "static/media/main.jpg": "/static/media/main.f2bfb12092d91d3f6854.jpg",
+    "static/media/electricals.jpg": "/static/media/electricals.5514890f7bab01a75b0b.jpg",
+    "static/media/1.jpg": "/static/media/1.7867864d6b10771e8f7a.jpg",
+    "static/media/detailing3.jpg": "/static/media/detailing3.22b56f8286ab87a8ef8a.jpg",
+    "static/media/detailing1.jpg": "/static/media/detailing1.d12378d8551287fae202.jpg",
+    "static/media/detailing2.jpg": "/static/media/detailing2.1d5347bd1a38e9c3a86c.jpg",
+    "static/media/fittings.jpg": "/static/media/fittings.1f637b559a9d602a5509.jpg",
+    "static/media/logo.png": "/static/media/logo.549f878d9bdb15a16227.png",
+    "static/media/gallery.gif": "/static/media/gallery.7cf33c731dd77128c288.gif",
+    "static/media/service3.jpg": "/static/media/service3.bd96ebb733a4d2b74724.jpg",
+    "static/media/polish4.jpg": "/static/media/polish4.f8e231c8af2a4d61eb4d.jpg",
+    "static/media/accessories.jpg": "/static/media/accessories.44371bd3a1cfeb2cd0b3.jpg",
+    "static/media/servicing1.avif": "/static/media/servicing1.1fa882f1e9e2b904093f.avif",
+    "static/media/polish3.avif": "/static/media/polish3.e583faf9a6a51f24fc01.avif",
+    "index.html": "/index.html",
+    "main.b477b250.css.map": "/static/css/main.b477b250.css.map",
+    "main.e6903b03.js.map": "/static/js/main.e6903b03.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1ebe282d.js"
+    "static/css/main.b477b250.css",
+    "static/js/main.e6903b03.js"
   ]
 }
