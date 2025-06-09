@@ -2,6 +2,7 @@ import React from "react";
 import "./Footer.css";
 import { MapPin } from "lucide-react";
 import logo from "../assets/logo.png";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -10,13 +11,13 @@ const Footer = () => {
         <div className="footer-grid">
           {/* Logo & About */}
           <div>
-            <a href="/" className="footer-logo flex items-center">
+            <Link to="/" className="footer-logo flex items-center">
               <img
                 src={logo}
                 alt="AH AUTO KING Logo"
                 className="h-13 w-auto mr-2"
               />
-            </a>
+            </Link>
             <p className="footer-description">
               Providing premium automotive services with expertise and care.
             </p>
@@ -27,22 +28,22 @@ const Footer = () => {
             <h3 className="footer-heading">Our Services</h3>
             <ul className="footer-list">
               <li>
-                <a href="/services">Premium Detailing</a>
+                <Link to="/services">Premium Detailing</Link>
               </li>
               <li>
-                <a href="/services">Routine Maintenance</a>
+                <Link to="/services">Routine Maintenance</Link>
               </li>
               <li>
-                <a href="/services">Engine Diagnostics</a>
+                <Link to="/services">Engine Diagnostics</Link>
               </li>
               <li>
-                <a href="/services">Brake Services</a>
+                <Link to="/services">Brake Services</Link>
               </li>
               <li>
-                <a href="/services">Performance Upgrades</a>
+                <Link to="/services">Performance Upgrades</Link>
               </li>
               <li>
-                <a href="/services">Electrical Systems</a>
+                <Link to="/services">Electrical Systems</Link>
               </li>
             </ul>
           </div>
@@ -52,19 +53,19 @@ const Footer = () => {
             <h3 className="footer-heading">Quick Links</h3>
             <ul className="footer-list">
               <li>
-                <a href="/">Home</a>
+                <Link to="/">Home</Link>
               </li>
               <li>
-                <a href="/services">Services</a>
+                <Link to="/services">Services</Link>
               </li>
               <li>
-                <a href="/gallery">Gallery</a>
+                <Link to="/gallery">Gallery</Link>
               </li>
               <li>
-                <a href="/products">Products</a>
+                <Link to="/products">Products</Link>
               </li>
               <li>
-                <a href="/contact">Contact</a>
+                <Link to="/contact">Contact</Link>
               </li>
             </ul>
           </div>
